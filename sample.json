@@ -1,0 +1,186 @@
+{
+    "shapes": [
+        {
+            "label": "",
+            "points": [
+                [
+                    524.0,
+                    2377.0
+                ],
+                [
+                    995.0,
+                    2422.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "ocr_value": {
+                "text": "INGENIEUR FRIGORISTE",
+                "extracted_texts": [
+                    {
+                        "text": "INGENIEUR FRIGORISTE",
+                        "confidence": 0.8059568371305902,
+                        "bounding_box": [
+                            [
+                                524.0,
+                                2377.0
+                            ],
+                            [
+                                995.0,
+                                2377.0
+                            ],
+                            [
+                                995.0,
+                                2422.0
+                            ],
+                            [
+                                524.0,
+                                2422.0
+                            ]
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "label": "",
+            "points": [
+                [
+                    1112.0,
+                    2377.0
+                ],
+                [
+                    1419.0,
+                    2422.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "ocr_value": {
+                "text": "Po86154684034",
+                "extracted_texts": [
+                    {
+                        "text": "Po86154684034",
+                        "confidence": 0.6943304651434461,
+                        "bounding_box": [
+                            [
+                                1112.0,
+                                2377.0
+                            ],
+                            [
+                                1419.0,
+                                2377.0
+                            ],
+                            [
+                                1419.0,
+                                2422.0
+                            ],
+                            [
+                                1112.0,
+                                2422.0
+                            ]
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "label": "",
+            "points": [
+                [
+                    1579.0,
+                    2380.0
+                ],
+                [
+                    1789.0,
+                    2420.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "ocr_value": {
+                "text": "30 11 1998",
+                "extracted_texts": [
+                    {
+                        "text": "30 11 1998",
+                        "confidence": 0.9481042380201828,
+                        "bounding_box": [
+                            [
+                                1579.0,
+                                2380.0
+                            ],
+                            [
+                                1789.0,
+                                2380.0
+                            ],
+                            [
+                                1789.0,
+                                2420.0
+                            ],
+                            [
+                                1579.0,
+                                2420.0
+                            ]
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "label": "",
+            "points": [
+                [
+                    1843.0,
+                    2377.0
+                ],
+                [
+                    2076.0,
+                    2420.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "ocr_value": {
+                "text": "NOVEMBRE",
+                "extracted_texts": [
+                    {
+                        "text": "NOVEMBRE",
+                        "confidence": 0.9998599419596278,
+                        "bounding_box": [
+                            [
+                                1843.0,
+                                2377.0
+                            ],
+                            [
+                                2076.0,
+                                2377.0
+                            ],
+                            [
+                                2076.0,
+                                2420.0
+                            ],
+                            [
+                                1843.0,
+                                2420.0
+                            ]
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "flags": {},
+    "imagePath": "/home/aurexus/Videos/easy_ocr/sample_images_pertus/1998_11_1_A15.jpg",
+    "imageData": null,
+    "imageHeight": 2768,
+    "imageWidth": 2484,
+    "otherData": null
+}
